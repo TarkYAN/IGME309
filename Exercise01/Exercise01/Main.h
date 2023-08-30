@@ -1,14 +1,11 @@
 /*---------------------------------------------------------------------------------------
 -----------
-Comments about this program
+This project was generated in 2013
 -----------------------------------------------------------------------------------------
 ---------*/
-#include "Main.h"
-int main()
-{
-	std::cout << "Hello World\n";
-	//Ending the program
-	std::cout << "Press enter to finish";
-	getchar();
-	return 0;
-}
+#ifndef _MAIN_H
+#define _MAIN_H
+
+#include <iostream>
+
+#endif //_MAIN_H
